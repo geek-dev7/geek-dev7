@@ -12,7 +12,7 @@
 - ☁️ Master of **AWS Infrastructure** (EC2, EKS, DynamoDB, Lambda, CloudFront).
 - 🧠 Deeply invested in **Prompt Engineering** and leveraging **LLMs**.
 - 💬 Ask me about: **Python, Kuberenetes, DevOps, and Vibe Coding**.
-- 📫 Reach me out at: **[gaurang0112@gmail.com](mailto:gaurang0112@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/geek-dev7)**.
+- 📫 Reach me out at: **[gaurangmishra1010@gmail.com](mailto:gaurangmishra1010@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/geek-dev7)**.
 
 ---
 
